@@ -1,3 +1,6 @@
+def subtract(x,y):
+    return(x-y)
+
 i = 0
 
 i = add(i,3)
